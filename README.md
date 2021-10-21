@@ -2,6 +2,8 @@
 
 **Ponto importante para todos os desafios:** o resultado não poderá ser enviado por e-mail. Ao invés disso, crie um repositório git e forneça um link de acesso com compartilhamento autorizado.
 
+**Prazo:** O desafio deverá ser realizado em até **48 horas** a partir do instante de recebimento.
+
 ## Exercício 1 
 Uma determinada aplicação requer uso de eletrônica analógica para interfaceamento entre uma fonte de luz pulsante entre 10kHz e 100kHz e um microcontrolador que irá analisar o sinal de saída. A primeira tarefa é selecionar um circuito de condicionamento para detectar a luz pulsante e gerar como saída uma onda quadrada a ser comparada pelo microcontrolador, assim como ilustra a figura a seguir.
 
